@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoanglong69" alt="hoanglong69" /></a> </p>
 
-- 💬 Ask me about **Altium; PIC 8, 16 bit**
+- 💬 Ask me about **Altium; PIC 8, 16 bit; Python; C/C++**
 
 - 📫 How to reach me **tranthamhoanglong01@gmail.com**
 
