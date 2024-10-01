@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/hoanglong111203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hoang long" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@Tech_Life1112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="[tech life](https://www.youtube.com/channel/UCnru_JkpdM8u2_DLwuOdF9w)" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@hoanglong01_altium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="[tech life](https://www.youtube.com/channel/UCnru_JkpdM8u2_DLwuOdF9w)" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
