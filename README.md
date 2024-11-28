@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hoàng Long</h1>
-<h3 align="center">A 3rd year student majoring in electronics and telecommunications</h3>
+<h3 align="center">I'm a tech enthusiast deeply interested in Robotics, IoT, and PCB Design. I find joy in turning ideas into functional innovations through intelligent devices, cutting-edge circuits, and inventive robotic systems.</h3>
 
 - 💬 Ask me about **Altium; Yolo; PIC 8, 16 bit; Python; C/C++, Raspberry Pi**
 
